@@ -37,6 +37,6 @@ ThemeManager is your go-to solution for comprehensive customization of colorsche
 
 
 ### Protocols
-
+- ``TMColor``
 
 ### Framework Integration
